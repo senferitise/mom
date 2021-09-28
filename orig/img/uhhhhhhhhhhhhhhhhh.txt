@@ -1,5 +1,0 @@
-tranfer millisecondlist using localsummat
-(which contains the millisecond response times)
-to codetwo
-
-from there, they will be added up to get alltime
